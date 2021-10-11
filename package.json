@@ -1,0 +1,31 @@
+{
+  "name": "trabalho_pw4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "fs": "0.0.1-security",
+    "i18n": "^0.13.3",
+    "i18n-nodejs": "^3.0.0",
+    "mysql2": "^2.3.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "handlebars": "^4.5.0"
+  }
+}

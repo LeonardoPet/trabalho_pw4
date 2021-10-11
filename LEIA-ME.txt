@@ -1,0 +1,8 @@
+O sistema CADASTRA/INSERE/LISTA/DELETA carros que são inseridos por um simples form. Após o cadastro os dados do carro são inseridos no Mysql.
+
+Rotas
+"/" = lista os carros cadastrados
+"/cadastro" = cadastra um novo carro
+Existe dois botões:
+Cadastrar = o botão está na rota "/cadastro" e se for acionado adiciona um carro na aplicação
+Deletar = o botão está na rota "/" e se for acionado deleta o carro no banco de dados  
